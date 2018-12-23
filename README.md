@@ -7,5 +7,12 @@
 ```
 .prettier.js
 ```
+ module.exports = {
+        singleQuote: true,
+        semi: false
+    }
+```
+user setting
+```
 "eslint.autoFixOnSave":true
 ```
