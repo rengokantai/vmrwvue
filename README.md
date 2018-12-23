@@ -16,3 +16,7 @@ user setting
 ```
 "eslint.autoFixOnSave":true
 ```
+### 08:07
+```
+"vetur.completion.useScaffoldSnippets":false
+```
